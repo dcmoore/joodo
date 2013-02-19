@@ -1,13 +1,5 @@
-# support
+# chee
 
-FIXME: write description
+Qi (pronounced chee) is the term for the universal energy, or the energy that permeates everything around us.
 
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Chee is the section of Joodo where commonly used and generic functions live. Typically, the implementation of these functions vary slightly and permeate the entire app. This library of functions keeps that common behavior consistent and organized.
