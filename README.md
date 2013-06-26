@@ -53,3 +53,5 @@ $ lein joodo server
 Copyright (c) 2011-2013 Micah Martin All Rights Reserved.
 
 Distributed under The MIT License.
+
+Can you see me?
